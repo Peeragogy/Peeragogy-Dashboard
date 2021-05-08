@@ -10,7 +10,9 @@ Designing a new type of learning environment.
 The Peeragogical Dashboard
 
 ## Enjoy it:
-:link:[Peeragogy Dashboard repository V.1.1.6
+:link:https://peeragogy.org/Peeragogy-Dashboard
+
+- V.1.1.6 on Branch "Fabry"
 
 if you want to have full access to all the functionality of the dashboard, the best way is to *download the .zip folder* located to the right of the screen and lunch the *index.html* file using *Firefox browser*. Chrome it might have some problems handling `<iframe>`on page.
 
