@@ -12,8 +12,4 @@ The Peeragogical Dashboard
 ## Enjoy it:
 :link:[Peeragogy Dashboard](https://peeragogy.org/Peeragogy-Dashboard/)
 
-if you want to have full access to all the functionality of the dashboard, the best way is to *download the .zip folder* located to the right of the screen and lunch the *index.html* file using *Firefox browser*. Chrome it might have some problems handling `<iframe>`on page.
-
-
-
 
